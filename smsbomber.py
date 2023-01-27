@@ -43,7 +43,8 @@ while 1:
 █▀▀ █▀▄▀█ █▀▀   █▀▀▄ █▀▀█ █▀▄▀█ █▀▀▄ █▀▀ █▀▀█
 ▀▀█ █░▀░█ ▀▀█   █▀▀▄ █░░█ █░▀░█ █▀▀▄ █▀▀ █▄▄▀
 ▀▀▀ ▀░░░▀ ▀▀▀   ▀▀▀░ ▀▀▀▀ ▀░░░▀ ▀▀▀░ ▀▀▀ ▀░▀▀
-                 {}  Discord: Dies#2986  
+                 {}  Discord: Dies#2986
+Uygulama şaka amaçlıdır kurulum yapıldıktan sonra tüm sorumluluk kullanıcıya aittir
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), len(servisler_call), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
         menu = int(input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder\n 2- Ara\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
